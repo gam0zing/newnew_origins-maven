@@ -27,11 +27,11 @@
         {
           "name": "newnew_origins-1.0.0.jar",
           "url": "newnew_origins-1.0.0.jar",
-          "size": 22590,
-          "sha512": "233f519145abc2f3ac4f82761c00fa510c8a3043b1c28d176a17651690b1f7859d81003f9ef38e5b2e373525104722983cd3695277f70b0dd63fcf3141e6aa8e",
-          "sha256": "cc36a31f59a5dfd95a3e620c5deb4c381cb362c8a1d3eeb0baad2654abce3c60",
-          "sha1": "ccaec36452f717a94c4da6cd7f20f2d5a22451e6",
-          "md5": "0c1e0a7d3ed4daee630ece11e06deae6"
+          "size": 22589,
+          "sha512": "c4db0c6095561982cd02254c13d211af252ed6b8400da5e841b7770d45ee3e197659304c1465d5dcf512e6f7d7f495d67083caf6946d2ce58c4297a1a53aa6d5",
+          "sha256": "0b75404b7c29be77403241151b1c6938858a375b50f1471f75734b4c69f5a4b3",
+          "sha1": "51ef34e1062d1ec39cdb3382d814bbd99eba2894",
+          "md5": "f8c60b9376eb49fec0778d7eb2e87269"
         }
       ]
     },
@@ -49,32 +49,28 @@
           "group": "io.github.edwinmindcraft",
           "module": "apoli-forge",
           "version": {
-            "strictly": "1.20.1-2.9.0.8_mapped_parchment_2023.09.03-1.20.1",
-            "requires": "1.20.1-2.9.0.8_mapped_parchment_2023.09.03-1.20.1"
+            "requires": "1.20.1-2.9.0.8"
           }
         },
         {
           "group": "io.github.edwinmindcraft",
           "module": "calio-forge",
           "version": {
-            "strictly": "1.20.1-1.11.0.5_mapped_parchment_2023.09.03-1.20.1",
-            "requires": "1.20.1-1.11.0.5_mapped_parchment_2023.09.03-1.20.1"
+            "requires": "1.20.1-1.11.0.5"
           }
         },
         {
           "group": "io.github.edwinmindcraft",
           "module": "origins-forge",
           "version": {
-            "strictly": "1.20.1-1.10.0.9_mapped_parchment_2023.09.03-1.20.1",
-            "requires": "1.20.1-1.10.0.9_mapped_parchment_2023.09.03-1.20.1"
+            "requires": "1.20.1-1.10.0.9"
           }
         },
         {
           "group": "top.theillusivec4.caelus",
           "module": "caelus-forge",
           "version": {
-            "strictly": "3.2.0+1.20.1_mapped_parchment_2023.09.03-1.20.1",
-            "requires": "3.2.0+1.20.1_mapped_parchment_2023.09.03-1.20.1"
+            "requires": "3.2.0+1.20.1"
           }
         },
         {
@@ -89,11 +85,11 @@
         {
           "name": "newnew_origins-1.0.0.jar",
           "url": "newnew_origins-1.0.0.jar",
-          "size": 22590,
-          "sha512": "233f519145abc2f3ac4f82761c00fa510c8a3043b1c28d176a17651690b1f7859d81003f9ef38e5b2e373525104722983cd3695277f70b0dd63fcf3141e6aa8e",
-          "sha256": "cc36a31f59a5dfd95a3e620c5deb4c381cb362c8a1d3eeb0baad2654abce3c60",
-          "sha1": "ccaec36452f717a94c4da6cd7f20f2d5a22451e6",
-          "md5": "0c1e0a7d3ed4daee630ece11e06deae6"
+          "size": 22589,
+          "sha512": "c4db0c6095561982cd02254c13d211af252ed6b8400da5e841b7770d45ee3e197659304c1465d5dcf512e6f7d7f495d67083caf6946d2ce58c4297a1a53aa6d5",
+          "sha256": "0b75404b7c29be77403241151b1c6938858a375b50f1471f75734b4c69f5a4b3",
+          "sha1": "51ef34e1062d1ec39cdb3382d814bbd99eba2894",
+          "md5": "f8c60b9376eb49fec0778d7eb2e87269"
         }
       ]
     },
@@ -110,10 +106,10 @@
           "name": "newnew_origins-1.0.0-sources.jar",
           "url": "newnew_origins-1.0.0-sources.jar",
           "size": 13043,
-          "sha512": "8b89396311c633a982b35219a59aa55bc28dee6d95bb21b5f8af5bd952a7faa88c804d38a67073de301ccfc58c9f9d5a76ef8b73a8e979b0f16486d899100baa",
-          "sha256": "0ddb6575f9db2809f111116c5cca333b0d73c00a7542712fe503901fb9b4d6c6",
-          "sha1": "8a4ae7e5b02e867427be54070685d85322e53b9e",
-          "md5": "69949b73a0da9087f6c5d02776e0bfef"
+          "sha512": "2b77d4835cf0bb5803f07c5cc2a24e5bb559c6443a9a733a3cfae169298403dfe1bd962e19365be730043dab68b2eab9e27f67953c79ff1422562e8eb259e128",
+          "sha256": "877d4220cf611a67f73669532c958b33f05ec9a54b46804b12c6c7b4aa9ebe22",
+          "sha1": "b3b79b083e051dbf8c4dab451605a62e49c7cf3f",
+          "md5": "35d1f02f0bb7576e491765a77f14bf99"
         }
       ]
     }
