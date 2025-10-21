@@ -28,10 +28,10 @@
           "name": "newnew_origins-1.0.0.jar",
           "url": "newnew_origins-1.0.0.jar",
           "size": 22589,
-          "sha512": "c4db0c6095561982cd02254c13d211af252ed6b8400da5e841b7770d45ee3e197659304c1465d5dcf512e6f7d7f495d67083caf6946d2ce58c4297a1a53aa6d5",
-          "sha256": "0b75404b7c29be77403241151b1c6938858a375b50f1471f75734b4c69f5a4b3",
-          "sha1": "51ef34e1062d1ec39cdb3382d814bbd99eba2894",
-          "md5": "f8c60b9376eb49fec0778d7eb2e87269"
+          "sha512": "3f4d01d3237a88dc485c6d10db9a49cc1c4cec7f29990f1a8972938ba6b9091395638824b69a77f507276864048331191048db533105c1494cd5638e99010643",
+          "sha256": "70cc9d056e685a919f84ddfb50a9eb798c8fecf7e05133007011be6a9d102a87",
+          "sha1": "27848745b643a2ffd248cfdc3dd0cac6aa67e0e0",
+          "md5": "9ec7102af440918b8fe3fb0940dfcd5f"
         }
       ]
     },
@@ -49,28 +49,32 @@
           "group": "io.github.edwinmindcraft",
           "module": "apoli-forge",
           "version": {
-            "requires": "1.20.1-2.9.0.8"
+            "strictly": "1.20.1-2.9.0.8_mapped_parchment_2023.09.03-1.20.1",
+            "requires": "1.20.1-2.9.0.8_mapped_parchment_2023.09.03-1.20.1"
           }
         },
         {
           "group": "io.github.edwinmindcraft",
           "module": "calio-forge",
           "version": {
-            "requires": "1.20.1-1.11.0.5"
+            "strictly": "1.20.1-1.11.0.5_mapped_parchment_2023.09.03-1.20.1",
+            "requires": "1.20.1-1.11.0.5_mapped_parchment_2023.09.03-1.20.1"
           }
         },
         {
           "group": "io.github.edwinmindcraft",
           "module": "origins-forge",
           "version": {
-            "requires": "1.20.1-1.10.0.9"
+            "strictly": "1.20.1-1.10.0.9_mapped_parchment_2023.09.03-1.20.1",
+            "requires": "1.20.1-1.10.0.9_mapped_parchment_2023.09.03-1.20.1"
           }
         },
         {
           "group": "top.theillusivec4.caelus",
           "module": "caelus-forge",
           "version": {
-            "requires": "3.2.0+1.20.1"
+            "strictly": "3.2.0+1.20.1_mapped_parchment_2023.09.03-1.20.1",
+            "requires": "3.2.0+1.20.1_mapped_parchment_2023.09.03-1.20.1"
           }
         },
         {
@@ -86,10 +90,10 @@
           "name": "newnew_origins-1.0.0.jar",
           "url": "newnew_origins-1.0.0.jar",
           "size": 22589,
-          "sha512": "c4db0c6095561982cd02254c13d211af252ed6b8400da5e841b7770d45ee3e197659304c1465d5dcf512e6f7d7f495d67083caf6946d2ce58c4297a1a53aa6d5",
-          "sha256": "0b75404b7c29be77403241151b1c6938858a375b50f1471f75734b4c69f5a4b3",
-          "sha1": "51ef34e1062d1ec39cdb3382d814bbd99eba2894",
-          "md5": "f8c60b9376eb49fec0778d7eb2e87269"
+          "sha512": "3f4d01d3237a88dc485c6d10db9a49cc1c4cec7f29990f1a8972938ba6b9091395638824b69a77f507276864048331191048db533105c1494cd5638e99010643",
+          "sha256": "70cc9d056e685a919f84ddfb50a9eb798c8fecf7e05133007011be6a9d102a87",
+          "sha1": "27848745b643a2ffd248cfdc3dd0cac6aa67e0e0",
+          "md5": "9ec7102af440918b8fe3fb0940dfcd5f"
         }
       ]
     },
