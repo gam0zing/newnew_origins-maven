@@ -29,31 +29,31 @@
     <dependency>
       <groupId>io.github.edwinmindcraft</groupId>
       <artifactId>apoli-forge</artifactId>
-      <version>1.20.1-2.9.0.8_mapped_parchment_2023.09.03-1.20.1</version>
+      <version>1.20.1-2.9.0.8</version>
       <scope>runtime</scope>
     </dependency>
     <dependency>
       <groupId>io.github.edwinmindcraft</groupId>
       <artifactId>calio-forge</artifactId>
-      <version>1.20.1-1.11.0.5_mapped_parchment_2023.09.03-1.20.1</version>
+      <version>1.20.1-1.11.0.5</version>
       <scope>runtime</scope>
     </dependency>
     <dependency>
       <groupId>io.github.edwinmindcraft</groupId>
       <artifactId>origins-forge</artifactId>
-      <version>1.20.1-1.10.0.9_mapped_parchment_2023.09.03-1.20.1</version>
+      <version>1.20.1-1.10.0.9</version>
       <scope>runtime</scope>
     </dependency>
     <dependency>
       <groupId>top.theillusivec4.caelus</groupId>
       <artifactId>caelus-forge</artifactId>
-      <version>3.2.0+1.20.1_mapped_parchment_2023.09.03-1.20.1</version>
+      <version>3.2.0+1.20.1</version>
       <scope>runtime</scope>
     </dependency>
     <dependency>
       <groupId>net.minecraftforge</groupId>
       <artifactId>forge</artifactId>
-      <version>1.20.1-47.4.1_mapped_parchment_2023.09.03-1.20.1</version>
+      <version>1.20.1-47.4.1</version>
       <scope>runtime</scope>
     </dependency>
   </dependencies>
