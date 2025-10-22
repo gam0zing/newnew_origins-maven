@@ -27,11 +27,11 @@
         {
           "name": "newnew_origins-1.0.0.jar",
           "url": "newnew_origins-1.0.0.jar",
-          "size": 22589,
-          "sha512": "3f4d01d3237a88dc485c6d10db9a49cc1c4cec7f29990f1a8972938ba6b9091395638824b69a77f507276864048331191048db533105c1494cd5638e99010643",
-          "sha256": "70cc9d056e685a919f84ddfb50a9eb798c8fecf7e05133007011be6a9d102a87",
-          "sha1": "27848745b643a2ffd248cfdc3dd0cac6aa67e0e0",
-          "md5": "9ec7102af440918b8fe3fb0940dfcd5f"
+          "size": 21939,
+          "sha512": "520e1ac923a20363fc504823fa298a5a9cb2c60c26ef7b154b9a959c76697205138a7d8ec56dc6856e3560c6a71cd937a63bbeecf6bbe7d0adc655867a064649",
+          "sha256": "58ef05b3e3e9127ad0a4e71bdf72c6f54a28d39eb57de757d24952b6c54a7e7d",
+          "sha1": "77d42e3976c624b2193ebb0292ed8437302b3a86",
+          "md5": "f442c8fb6966f8449272762c396425f2"
         }
       ]
     },
@@ -89,31 +89,11 @@
         {
           "name": "newnew_origins-1.0.0.jar",
           "url": "newnew_origins-1.0.0.jar",
-          "size": 22589,
-          "sha512": "3f4d01d3237a88dc485c6d10db9a49cc1c4cec7f29990f1a8972938ba6b9091395638824b69a77f507276864048331191048db533105c1494cd5638e99010643",
-          "sha256": "70cc9d056e685a919f84ddfb50a9eb798c8fecf7e05133007011be6a9d102a87",
-          "sha1": "27848745b643a2ffd248cfdc3dd0cac6aa67e0e0",
-          "md5": "9ec7102af440918b8fe3fb0940dfcd5f"
-        }
-      ]
-    },
-    {
-      "name": "sourcesElements",
-      "attributes": {
-        "org.gradle.category": "documentation",
-        "org.gradle.dependency.bundling": "external",
-        "org.gradle.docstype": "sources",
-        "org.gradle.usage": "java-runtime"
-      },
-      "files": [
-        {
-          "name": "newnew_origins-1.0.0-sources.jar",
-          "url": "newnew_origins-1.0.0-sources.jar",
-          "size": 13043,
-          "sha512": "2b77d4835cf0bb5803f07c5cc2a24e5bb559c6443a9a733a3cfae169298403dfe1bd962e19365be730043dab68b2eab9e27f67953c79ff1422562e8eb259e128",
-          "sha256": "877d4220cf611a67f73669532c958b33f05ec9a54b46804b12c6c7b4aa9ebe22",
-          "sha1": "b3b79b083e051dbf8c4dab451605a62e49c7cf3f",
-          "md5": "35d1f02f0bb7576e491765a77f14bf99"
+          "size": 21939,
+          "sha512": "520e1ac923a20363fc504823fa298a5a9cb2c60c26ef7b154b9a959c76697205138a7d8ec56dc6856e3560c6a71cd937a63bbeecf6bbe7d0adc655867a064649",
+          "sha256": "58ef05b3e3e9127ad0a4e71bdf72c6f54a28d39eb57de757d24952b6c54a7e7d",
+          "sha1": "77d42e3976c624b2193ebb0292ed8437302b3a86",
+          "md5": "f442c8fb6966f8449272762c396425f2"
         }
       ]
     }
