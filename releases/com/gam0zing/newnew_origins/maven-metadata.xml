@@ -3,13 +3,13 @@
   <groupId>com.gam0zing</groupId>
   <artifactId>newnew_origins</artifactId>
   <versioning>
-    <latest>1.20.1-1.0.0</latest>
-    <release>1.20.1-1.0.0</release>
+    <latest>1.20.1-1.0.1</latest>
+    <release>1.20.1-1.0.1</release>
     <versions>
       <version>1.0.0</version>
       <version>1.20.1-1.0.0</version>
       <version>1.20.1-1.0.1</version>
     </versions>
-    <lastUpdated>20251022091335</lastUpdated>
+    <lastUpdated>20251027133711</lastUpdated>
   </versioning>
 </metadata>
